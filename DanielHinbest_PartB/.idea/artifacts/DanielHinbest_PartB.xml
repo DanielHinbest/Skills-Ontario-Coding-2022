@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="DanielHinbest_PartB">
+    <output-path>$PROJECT_DIR$/out/artifacts/DanielHinbest_PartB</output-path>
+    <root id="root">
+      <element id="archive" name="DanielHinbest_PartB.jar">
+        <element id="module-output" name="DanielHinbest_PartB" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
